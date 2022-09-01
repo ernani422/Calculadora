@@ -160,7 +160,7 @@
         <TextView
             android:id="@+id/igual"
             style="@style/Operators_Button"
-            android:text="=" />
+            android:text="@string/igual" />
 
     </LinearLayout>
 
